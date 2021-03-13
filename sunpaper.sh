@@ -11,8 +11,8 @@
 #################################################
 
 # Set your local latitude and longitude for sun calculations
-latitude="38.9072N"
-longitude="77.0369W"
+latitude="43.269120N"
+longitude="77.676600W"
 
 # Set full path to the wallpaper theme folder
 # Theme folder names:
@@ -21,11 +21,11 @@ longitude="77.0369W"
 # Blake Watson: Corporate-Synergy
 # Louis Coyle: Lakeside
 # 
-wallpaperPath="$HOME/sunpaper/images/The-Desert"
+wallpaperPath="$HOME/Documents/Git/sunpaper/images/Lakeside"
 
 # Set how you want your wallpaper displayed
 # stretch | center | tile | scale | zoom | fill
-wallpaperMode="scale"
+wallpaperMode="zoom"
 
 # Sunpaper writes some cache files to keep track of 
 # persistent variables.
